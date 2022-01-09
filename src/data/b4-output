@@ -1,0 +1,40 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-11-28 14:21 CST
+Nmap scan report for 2001:1900:2100::1ec8
+Host is up (0.38s latency).
+Nmap scan report for et-14-0-1-0.ptx-a.rjo511.algartelecom.com.br (2001:1291:0:138::a)
+Host is up (0.53s latency).
+Nmap scan report for 2001:1291::b
+Host is up (0.53s latency).
+Nmap scan report for 2001:1900:5:2:2::50b8
+Host is up (0.45s latency).
+Nmap scan report for ebgp-v6.ear3.Atlanta2.Level3.net (2001:1900::5:4d)
+Host is up (0.39s latency).
+Nmap scan report for p05151113241929.cern.ch (2001:1458:301:34::100:c)
+Host is up (0.37s latency).
+Nmap scan report for b7g16p8358.cern.ch (2001:1458:301:57::100:8b)
+Host is up (0.32s latency).
+Nmap scan report for 2001:1900:2100::6c50
+Host is up (0.36s latency).
+Nmap scan report for ebgp-v6.msr1.Washington1.Level3.net (2001:1900::5:31)
+Host is up (0.40s latency).
+Nmap scan report for ae62-191.bar1.Sofia2.Level3.net (2001:1900:5:2:2::52d5)
+Host is up (0.46s latency).
+Nmap scan report for k8s-spark-service-5nkx3qgbah6c-master-0.ipv6.cern.ch (2001:1458:301:c9::100:25)
+Host is up (0.42s latency).
+Nmap scan report for IP-TRANSIT.ear2.Amsterdam1.Level3.net (2001:1900:5:2:2::1e92)
+Host is up (0.31s latency).
+Nmap scan report for b7s09p8309.cern.ch (2001:1458:301:48::100:89)
+Host is up (0.33s latency).
+Nmap scan report for BEBE-STORES.ear2.SanJose1.Level3.net (2001:1900:2100::376a)
+Host is up (0.21s latency).
+Nmap scan report for BEIJING-CAP.edge5.Dallas3.Level3.net (2001:1900:2100::656e)
+Host is up (0.35s latency).
+Nmap scan report for 2001:1900:2100::4ef1
+Host is up (0.35s latency).
+Nmap scan report for et-2-0-0-0.border-a.ula001.algartelecom.com.br (2001:1291:0:102::b)
+Host is up (0.53s latency).
+Nmap scan report for 2001:1470:100c:13::a
+Host is up (0.41s latency).
+Nmap scan report for 2001:1470:100c::a
+Host is up (0.41s latency).
+Nmap done: 256 IP addresses (19 hosts up) scanned in 21.01 seconds

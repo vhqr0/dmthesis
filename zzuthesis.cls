@@ -136,7 +136,8 @@
   \def\zzu@id@title{学号或申请号}
   \def\zzu@secretlevel@title{密级}
   \ifzzu@master
-    \def\zzu@subtitle{硕士学位论文}
+    % \def\zzu@subtitle{硕士学位论文}
+    \def\zzu@subtitle{课程论文}
   \else
     \def\zzu@subtitle{博士学位论文}
   \fi
@@ -613,11 +614,11 @@
     \parbox[t][5.8cm][t]{\paperwidth-7.2cm}{
       \renewcommand{\baselinestretch}{1.5}
       \ifzzu@master
-        \begin{center}
-          \sanhao A thesis submitted to\\
-          {\bfseries Zhengzhou University}\\
-          for the degree of Master\\
-        \end{center}
+        % \begin{center}
+        %   \sanhao A thesis submitted to\\
+        %   {\bfseries Zhengzhou University}\\
+        %   for the degree of Master\\
+        % \end{center}
       \else
         \begin{center}
           \sanhao A dissertation submitted to\\
@@ -699,7 +700,7 @@
       \ifzzu@doctor\cleardoublepage\else\clearpage\fi
       \zzu@engcover
       \ifzzu@doctor\cleardoublepage\else\clearpage\fi
-      \zzu@authorization@mk
+      % \zzu@authorization@mk
     \fi%
   \end{titlepage}
   \normalsize
